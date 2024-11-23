@@ -1,0 +1,1 @@
+# creame una plantilla que pueda leer un dataframe con un menú lateral de cuatro secciones
